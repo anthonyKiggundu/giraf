@@ -30,8 +30,7 @@ giraf/
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/anthonyKiggundu/neural-networks.git
-cd neural-networks
+https://github.com/anthonyKiggundu/giraf.git
 ```
 
 2. **Create a virtual environment**:
