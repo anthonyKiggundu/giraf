@@ -1,0 +1,3 @@
+[console_scripts]
+giraf-simulate = examples.run_simulation:main
+
