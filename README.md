@@ -264,13 +264,13 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Anthony Kiggundu - [@anthonyKiggundu](https://github.com/anthonyKiggundu)
 
-Project Link: [https://github.com/anthonyKiggundu/neural-networks](https://github.com/anthonyKiggundu/neural-networks/giraf)
+Project Link: [https://github.com/anthonyKiggundu/neural-networks](https://github.com/anthonyKiggundu/giraf)
 
 ## 🔗 References
 
 - Paper: [Your research paper link]
 - Documentation: [Full API documentation]
-- Issues: [Bug reports and feature requests](https://github.com/anthonyKiggundu/neural-networks/giraf/issues)
+- Issues: [Bug reports and feature requests](https://github.com/anthonyKiggundu/giraf/issues)
 
 ---
 
