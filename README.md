@@ -264,7 +264,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Anthony Kiggundu - [@anthonyKiggundu](https://github.com/anthonyKiggundu)
 
-Project Link: [https://github.com/anthonyKiggundu/neural-networks](https://github.com/anthonyKiggundu/giraf)
+Project Link: [https://github.com/anthonyKiggundu/giraf](https://github.com/anthonyKiggundu/giraf)
 
 ## 🔗 References
 
